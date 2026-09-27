@@ -1,6 +1,6 @@
 # Privacy Policy — WAGMI Fit
 
-**Last updated**: September 19, 2026
+**Last updated**: September 27, 2026
 
 *Leggi in [italiano](./privacy-policy).*
 
@@ -37,7 +37,28 @@ We do not collect data for advertising purposes and we do not sell your data to 
 - To send you notifications about activity relevant to you (comments, messages, workout reminders), which you can turn off from Settings
 - To respond to requests you send us by email
 
-## 4. Who we share data with
+## 4. If you use WAGMI Coaching
+
+WAGMI Coaching connects an athlete with a Personal Trainer who holds the "Approved Trainer" badge inside the app. It only applies if you choose to use it — if you don't, nothing changes for you. **The badge means our team reviewed and approved a request, based on a self-written introduction and any social links the user chose to provide — it is not a verified professional certification.** Always assess a PT's qualifications yourself before relying on their advice.
+
+**If you're an athlete connected to a Personal Trainer:**
+- By default, your PT only sees the workouts they assigned you themselves and the results for those (what was planned vs. what you actually did, including if you skipped one).
+- Your PT does **not** see your other workouts, your weight and body measurements, or your progress photos, **unless you explicitly turn on the matching consent** in the connection's settings. Each of these three consents is **off by default**, independent of the others, and you turn it on or off whenever you want.
+- **Legal basis**: because this concerns data about your health (weight, body measurements, progress photos), we only share it with your PT on the basis of your **explicit consent** (Article 9(2)(a) of Regulation (EU) 2016/679 — GDPR), which you give by turning on each toggle separately and which you can **withdraw at any time**, with immediate effect, from the "My Personal Trainer" screen.
+- **The app gives your PT no way to download, save or share this data or your photos.** We cannot, however, technically prevent your PT from taking a screenshot or photographing the screen — only share photos and measurements with a PT you trust.
+- If you turn one of these consents on, your PT sees that data **only from that point onward** — never data from before you turned the consent on, even if it already existed in your account.
+- **If you turn a consent off, your PT immediately loses access to that specific data**, while staying connected to you for everything else (enforced on our systems on every use, not just hidden in the app).
+- Whenever your PT views your other workouts, weight/measurements or photos, we log which type of data they viewed and when (never the specific content) — an internal security measure, reviewable by our team for audits. We keep this log for **12 months**, then delete it automatically; it's also deleted immediately if you delete your account, even before those 12 months pass.
+- Your PT never sees your chats with other users, your conversations with the AI Coach, or your Match activity.
+- **You can disconnect from your Personal Trainer at any time**, from the connection's settings. From that moment, your PT immediately loses all access to all your data, including anything they may have viewed through the three consents: the app no longer lets them access it. Workouts they already assigned you remain yours — you also receive a personal copy you can keep editing freely — as does everything you've already completed.
+
+**If you're a Personal Trainer:**
+- To request the Approved Trainer badge, you give us a short written introduction and, optionally, links to your social profiles, manually reviewed by our team before approval. We do not currently require uploading any documents or certifications.
+- You only see the data described above about your own athletes, and only while the connection stays active.
+
+**If your badge is revoked, or we disable WAGMI Coaching for your account**: you immediately lose the ability to assign new workouts or see your athletes' results — enforced on our systems on every use, not just hidden in the app. Existing connections with your athletes **are not automatically closed**: they stay active until you or the athlete explicitly end them. The athlete still sees the connection and everything you already assigned them, but you can no longer do anything with that data.
+
+## 5. Who we share data with
 
 We do not sell or share your data for third parties' commercial purposes. We use a small number of service providers ("data processors") strictly necessary to run the app:
 
@@ -52,15 +73,15 @@ We do not sell or share your data for third parties' commercial purposes. We use
 
 Each of these receives only the data strictly necessary to provide its specific service.
 
-## 5. Where data is stored
+## 6. Where data is stored
 
 Data is stored on servers located in the **Netherlands** (application infrastructure) and on a database located in **Germany** (Frankfurt) — both within the European Union.
 
-## 6. How long we keep data
+## 7. How long we keep data
 
-We keep your data for as long as your account remains active. If you delete your account (Settings → Account Settings → Delete Account), your personal data, workouts, posts, comments, messages, photos, and every other piece of content linked to your profile are permanently and immediately deleted from our systems. This action is irreversible.
+We keep your data for as long as your account remains active. If you delete your account (Settings → Account Settings → Delete Account), your personal data, workouts, posts, comments, messages, photos, and every other piece of content linked to your profile are permanently and immediately deleted from our systems — including, where applicable, WAGMI Coaching connections, assignments and templates (see section 4). This action is irreversible.
 
-## 7. Your rights
+## 8. Your rights
 
 As a data subject, you have the right to:
 - **Access** your personal data
@@ -71,14 +92,14 @@ As a data subject, you have the right to:
 
 To exercise these rights, write to **support@wagmifit.it**. You also have the right to file a complaint with your national data protection authority (in Italy: the **Garante per la protezione dei dati personali**, www.garanteprivacy.it) if you believe the processing violates applicable law.
 
-## 8. Minimum age
+## 9. Minimum age
 
 WAGMI Fit is not intended for people under 18 years of age: the app includes a dating feature (Match), location sharing, and the ability to chat with other, unknown users — all of which require the user to be an adult. During registration you are asked to confirm that you are at least 18. If you are a parent or guardian and believe a minor created an account by providing a false confirmation, write to support@wagmifit.it to request its removal.
 
-## 9. Changes to this policy
+## 10. Changes to this policy
 
 We may update this policy over time. If we make material changes, we will notify you through the app before they take effect.
 
-## 10. Contact
+## 11. Contact
 
 For any question about this policy or your data: **support@wagmifit.it**
