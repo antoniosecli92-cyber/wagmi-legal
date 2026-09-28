@@ -1,6 +1,6 @@
 # Termini di Servizio — WAGMI
 
-**Ultimo aggiornamento**: 19 settembre 2026
+**Ultimo aggiornamento**: 28 settembre 2026
 
 *Read this in [English](./terms-of-service-en).*
 
@@ -14,7 +14,7 @@ WAGMI è un'app per il fitness che ti permette di registrare i tuoi allenamenti,
 
 ## 2. Il tuo account
 
-- Devi avere almeno 18 anni per creare un account: WAGMI include una funzione di incontri (Match), condivisione della posizione e chat con altri utenti sconosciuti. In fase di registrazione ti verrà chiesto di confermarlo.
+- Devi avere almeno 18 anni per creare un account: WAGMI include funzioni social della Community (trovare persone che si allenano vicino a te, amicizie, chat e la possibilità di cercare incontri e relazioni), la condivisione della posizione e la possibilità di chattare e incontrarsi di persona con utenti sconosciuti. In fase di registrazione ti verrà chiesto di confermarlo.
 - Sei responsabile della sicurezza delle tue credenziali di accesso.
 - Le informazioni che fornisci in fase di registrazione devono essere veritiere.
 - Puoi eliminare il tuo account in qualsiasi momento da Impostazioni → Impostazioni account — l'eliminazione è permanente e immediata.

@@ -1,12 +1,12 @@
 # Community Guidelines — WAGMI
 
-**Last updated**: September 16, 2026
+**Last updated**: September 28, 2026
 
 *Leggi in [italiano](./community-guidelines).*
 
 WAGMI is a place to train, share progress, and motivate each other. To keep it that way, we enforce a **zero-tolerance** policy toward offensive content and abusive behavior.
 
-WAGMI is for people **18 years of age or older** — the app includes a dating feature (Match), location sharing, and the ability to chat with other, unknown users.
+WAGMI is for people **18 years of age or older** — the app includes Community social features (finding people who train near you, friends, chat and the option to look for dating and relationships), location sharing, and the ability to chat and meet in person with unknown users.
 
 ## What is never allowed
 

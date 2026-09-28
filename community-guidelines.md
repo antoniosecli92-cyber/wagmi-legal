@@ -1,12 +1,12 @@
 # Linee guida della community — WAGMI
 
-**Ultimo aggiornamento**: 16 settembre 2026
+**Ultimo aggiornamento**: 28 settembre 2026
 
 *Read this in [English](./community-guidelines-en).*
 
 WAGMI è uno spazio per allenarsi, condividere progressi e motivarsi a vicenda. Per restare tale, adottiamo una politica di **tolleranza zero** verso contenuti offensivi e comportamenti abusivi.
 
-WAGMI è riservata a persone che hanno **almeno 18 anni** — l'app include una funzione di incontri (Match), la condivisione della posizione e la possibilità di chattare con utenti sconosciuti.
+WAGMI è riservata a persone che hanno **almeno 18 anni** — l'app include funzioni social della Community (trovare persone che si allenano vicino a te, amicizie, chat e la possibilità di cercare incontri e relazioni), la condivisione della posizione e la possibilità di chattare e incontrarsi di persona con utenti sconosciuti.
 
 ## Cosa non è mai ammesso
 

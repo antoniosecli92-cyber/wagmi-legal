@@ -1,6 +1,6 @@
 # Informativa sulla Privacy — WAGMI Fit
 
-**Ultimo aggiornamento**: 27 settembre 2026
+**Ultimo aggiornamento**: 28 settembre 2026
 
 *Read this in [English](./privacy-policy-en).*
 
@@ -49,7 +49,7 @@ WAGMI Coaching collega un atleta a un Personal Trainer con badge "Trainer approv
 - Se attivi uno di questi consensi, il tuo PT vede quel dato **solo da quel momento in poi** — mai i dati precedenti alla data in cui hai attivato il consenso, anche se esistevano già nel tuo account.
 - **Se disattivi un consenso, il tuo PT perde immediatamente l'accesso a quel dato specifico**, restando comunque collegato a te per tutto il resto (verificato ad ogni utilizzo sui nostri sistemi, non solo nascosto nell'app).
 - Ogni volta che il tuo PT consulta i tuoi altri allenamenti, il tuo peso/misure o le tue foto, registriamo che tipo di dato ha consultato e quando (mai il contenuto specifico) — una misura di sicurezza interna, consultabile dal nostro team in caso di controlli. Conserviamo questo registro per **12 mesi**, poi lo cancelliamo automaticamente; viene comunque cancellato subito se elimini il tuo account, anche prima che passino i 12 mesi.
-- Il tuo PT non vede mai le tue chat con altri utenti, le tue conversazioni con l'AI Coach, o le tue interazioni su Match.
+- Il tuo PT non vede mai le tue chat con altri utenti, le tue conversazioni con l'AI Coach, o le tue interazioni nella Community.
 - **Puoi scollegarti dal tuo Personal Trainer in qualsiasi momento**, dalle impostazioni del collegamento. Da quel momento il PT perde immediatamente ogni accesso a tutti i tuoi dati, inclusi quelli che aveva eventualmente visto grazie ai tre consensi: l'app non gli consente più di accedervi. Gli allenamenti che ti ha già assegnato restano tuoi — ricevi anche una copia personale che puoi continuare a modificare liberamente — così come tutto ciò che hai già eseguito.
 
 **Se sei un Personal Trainer:**
@@ -94,7 +94,7 @@ Per esercitare questi diritti, scrivi a **support@wagmifit.it**. Hai inoltre dir
 
 ## 9. Età minima
 
-WAGMI Fit non è destinata a persone di età inferiore a 18 anni: l'app include una funzione di incontri (Match), condivisione della posizione e la possibilità di chattare con altri utenti sconosciuti — elementi che richiedono che l'utente sia maggiorenne. In fase di registrazione ti viene chiesto di confermare di avere almeno 18 anni. Se sei un genitore o tutore e ritieni che un minore abbia creato un account fornendo una falsa conferma, scrivi a support@wagmifit.it per richiederne la rimozione.
+WAGMI Fit non è destinata a persone di età inferiore a 18 anni: l'app include funzioni social della Community (trovare persone che si allenano vicino a te, amicizie, chat e la possibilità di cercare incontri e relazioni), la condivisione della posizione e la possibilità di chattare e incontrarsi di persona con utenti sconosciuti — elementi che richiedono che l'utente sia maggiorenne. In fase di registrazione ti viene chiesto di confermare di avere almeno 18 anni. Se sei un genitore o tutore e ritieni che un minore abbia creato un account fornendo una falsa conferma, scrivi a support@wagmifit.it per richiederne la rimozione.
 
 ## 10. Modifiche a questa informativa
 

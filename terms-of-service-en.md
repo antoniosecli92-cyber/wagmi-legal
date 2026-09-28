@@ -1,6 +1,6 @@
 # Terms of Service — WAGMI
 
-**Last updated**: September 16, 2026
+**Last updated**: September 28, 2026
 
 *Leggi in [italiano](./terms-of-service).*
 
@@ -14,7 +14,7 @@ WAGMI is a fitness app that lets you log your workouts, get support from an AI-b
 
 ## 2. Your account
 
-- You must be at least 18 years old to create an account: WAGMI includes a dating feature (Match), location sharing, and the ability to chat with unknown users. You will be asked to confirm this during registration.
+- You must be at least 18 years old to create an account: WAGMI includes Community social features (finding people who train near you, friends, chat and the option to look for dating and relationships), location sharing, and the ability to chat and meet in person with unknown users. You will be asked to confirm this during registration.
 - You are responsible for keeping your login credentials secure.
 - The information you provide during registration must be truthful.
 - You can delete your account at any time from Settings → Account Settings — deletion is permanent and immediate.
