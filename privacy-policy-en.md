@@ -1,6 +1,6 @@
 # Privacy Policy — WAGMI Fit
 
-**Last updated**: September 28, 2026
+**Last updated**: September 30, 2026
 
 *Leggi in [italiano](./privacy-policy).*
 
@@ -90,7 +90,7 @@ As a data subject, you have the right to:
 - **Request a copy** of your data in a readable format (portability)
 - **Object to** or **restrict** processing in certain cases
 
-To exercise these rights, write to **support@wagmifit.it**. You also have the right to file a complaint with your national data protection authority (in Italy: the **Garante per la protezione dei dati personali**, www.garanteprivacy.it) if you believe the processing violates applicable law.
+To exercise these rights, write to **support@wagmifit.it**. We respond within **30 days** of your request, extendable by a further 2 months for particularly complex requests — in that case we'll let you know. You also have the right to file a complaint with your national data protection authority (in Italy: the **Garante per la protezione dei dati personali**, www.garanteprivacy.it) if you believe the processing violates applicable law.
 
 ## 9. Minimum age
 

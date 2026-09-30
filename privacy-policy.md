@@ -1,6 +1,6 @@
 # Informativa sulla Privacy — WAGMI Fit
 
-**Ultimo aggiornamento**: 28 settembre 2026
+**Ultimo aggiornamento**: 30 settembre 2026
 
 *Read this in [English](./privacy-policy-en).*
 
@@ -90,7 +90,7 @@ In quanto interessato, hai diritto di:
 - **Richiedere una copia** dei tuoi dati in un formato leggibile (portabilità)
 - **Opporti** o **limitare** il trattamento in determinati casi
 
-Per esercitare questi diritti, scrivi a **support@wagmifit.it**. Hai inoltre diritto di presentare reclamo alla tua autorità nazionale di protezione dati (in Italia: il **Garante per la protezione dei dati personali**, www.garanteprivacy.it) se ritieni che il trattamento violi la normativa applicabile.
+Per esercitare questi diritti, scrivi a **support@wagmifit.it**. Rispondiamo entro **30 giorni** dalla richiesta, estendibili di altri 2 mesi per richieste particolarmente complesse — in tal caso te lo comunichiamo. Hai inoltre diritto di presentare reclamo alla tua autorità nazionale di protezione dati (in Italia: il **Garante per la protezione dei dati personali**, www.garanteprivacy.it) se ritieni che il trattamento violi la normativa applicabile.
 
 ## 9. Età minima
 
